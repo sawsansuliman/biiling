@@ -1,3 +1,5 @@
 read itemes from 1 to one
 add
 print sum
+if amount >500 give discount
+else no 

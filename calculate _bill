@@ -3,3 +3,5 @@ add
 print sum
 if amount >500 give discount
 else no 
+add credit points
+allow the client
